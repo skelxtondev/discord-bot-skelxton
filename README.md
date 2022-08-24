@@ -1,1 +1,1 @@
-# discord-bot-skelxton
+# Skelxtons Discord Bot
